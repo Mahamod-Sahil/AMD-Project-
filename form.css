@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color:#e0c6c6;
+}
+#form{
+    color: black;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+}
+.inform{
+    display: flex;
+    flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+margin: 100px;
+width: 50%;
+background-color: white;
+padding: 50px;
+border-radius: 8px;
+box-shadow: 0 0 10px black;
+}
+.formh1{
+    font-size: 2.5rem;
+    display: block;
+    margin: 10px;
+    text-decoration: underline;
+}
+.formh2{
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.input{
+    padding: 15px;
+    width: 200px;
+    border-radius: 8px;
+    border: none;
+    margin: 5px;
+    background-color: rgb(214, 210, 210);
+}
+.checkbox{
+    display: flex;
+    margin: 20px;
+}
+.submit{
+    display: block;
+}
+.insubmit{
+    padding: 10px;
+    border-radius: 8px;
+    width: 150px;
+    margin: 20px 400px;
+    color: white;
+    background-color: rgb(38, 38, 204);
+    font-size: 1rem;
+    cursor: pointer;
+}

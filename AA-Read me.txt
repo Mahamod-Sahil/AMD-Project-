@@ -1,0 +1,7 @@
+This is website project done by AMD group 
+Members :- Aakash Neupane
+        :- Mahamod Sahil
+
+We have taken assistance of some websites  while making this website project .
+
+we have concept of collecting blood group data through ECA group of our Forbes college 

@@ -1,0 +1,171 @@
+h1{
+    font-size: 3.1rem;  
+  }
+  .p1{
+  width: 35%;
+  }
+  h2{
+      font-size: 2rem;
+  }
+  .p1,.p2{
+      font-size: 0.9rem;
+      
+  }
+  .intro2{
+      width: 30%;
+  }
+  .onlyline2{
+      height: 40px;
+  }
+  .girl{
+      width: 300px;
+      left: 35%;
+  }
+  @media screen and (max-width:1350px){
+      h1{
+       font-size: 2.8rem;
+      }
+  }
+  @media screen and (max-width:1000px){
+      .p1,.p2{
+          font-size: 0.7rem;
+      }
+      .p1{
+          top: 22%;
+          right: 5%;
+      }
+      h1{
+          font-size: 2.8rem;
+          margin-left: -8%;
+  
+      }
+      .onlyline1{
+          height: 180px;
+      }
+      /* .onlyline2{
+          height: 50px;
+      } */
+      h2{
+          font-size: 1.2rem;
+      }
+      .pink{
+          margin-left: 20%;
+          width: 35%;
+      }
+      .girl{
+          width: 30%;
+          height: 40%;
+      }
+      .heading3{
+        font-size: 1.3rem;
+    }
+
+  
+  }
+  @media screen and (max-width:700px){
+  .girl{
+      width: 220px;
+      left: 30%;
+  }
+  .pink{
+      width: 250px;
+      margin-left: 15%;
+  }
+  h1{
+      left: 15%;
+      font-size: 2.2rem;
+  }
+  h2{
+      font-size: 1.4rem;
+  }
+  .heading3{
+      font-size: 1rem;
+  }
+  .p1,.p2{
+      font-size: 0.6rem;
+  }
+  .p1{
+      right: 5%;
+  }
+  .heading3{
+      left: 10%;
+  }
+  }
+  @media screen and (max-width:600px){
+      .girl{
+          width: 180px;
+          height: 38%;
+          left: 30%;
+      }
+      h2{
+          font-size: 1rem;
+      }
+      .pink{
+          width: 35%;
+      }
+      .intro2{
+          height:30% ;
+      }
+      .heading3{
+          left: 10%; 
+          font-size: 1rem;
+      }
+      .onlyline2{
+      height: 35px;
+      width:7px
+      }
+  }
+  
+  @media screen and (max-width:500px){
+      .girl{
+          width: 150px;
+          height: 35%;
+          left: 30%;
+          bottom: 20%;
+      }
+      .intro2{
+          right: 5%;
+          height: 20%;
+          width: 45%;
+      }
+      .pink{
+          width: 35%;
+      }
+      .onlyline1{
+          height: 120px;
+      }
+      h1{
+          font-size: 1.5rem;
+      }
+      h2{
+          font-size: 0.9rem;
+      }
+      .heading3{
+          
+          font-size: 0.8rem;
+      }
+      .p1,.p2{
+          font-size: 0.6rem;
+      }
+  }
+  @media screen and (max-width:500px){
+      h2{
+          font-size: 0.9;
+      }
+      .intro2{
+          width:50%;
+      }
+      .heading3{
+          
+          font-size: 0.7rem;
+      }
+      .onlyline2{
+          bottom: 10px;
+      }
+      .girl{
+          width: 180px;
+          height: 30%;
+      }
+  
+  }
+  
